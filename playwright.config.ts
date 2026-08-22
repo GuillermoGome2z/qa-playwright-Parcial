@@ -10,7 +10,7 @@ export default defineConfig({
   ],
 
   use: {
-    baseURL: 'https://www.demoblaze.com',
+    baseURL: 'https://practice.expandtesting.com/login',
     headless: false,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
